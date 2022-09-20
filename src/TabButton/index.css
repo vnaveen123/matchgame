@@ -1,0 +1,19 @@
+.styledbutton {
+  color: #fec653;
+  background-color: transparent;
+  border-width: 0px;
+  text-decoration: underline;
+  font-size: 25px;
+}
+
+.unstyledbutton {
+  color: #ffffff;
+  background-color: transparent;
+  border-width: 0px;
+  font-size: 25px;
+}
+
+.buttonlist {
+  list-style-type: none;
+  display: flex;
+}
